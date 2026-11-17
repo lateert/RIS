@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Сборки
+bin/
+obj/
+
+# Система
+Thumbs.db
+Desktop.ini
